@@ -18,10 +18,12 @@ nav a {
   margin: 0 10px;
   text-decoration: none;
   font-weight: bold;
+  font-family: Italianno;
 }
 
 main {
   padding: 20px;
+  font-family: Iansui;
 }
 
 /* ABOUT ME — GRID LAYOUT */
@@ -43,6 +45,7 @@ main {
   background-color: #ffacdf;
   padding: 30px;
   border-radius: 10px;
+  font-family: Oregano;
 }
 
 /* RESPONSIVE LAYOUT */
